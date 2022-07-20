@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Only!<br/>💀 Sou apenas um medíocre.
+### 👋 Olá, eu sou o Only!
 
 ![Only's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onlyzito&show_icons=true&theme=dracula)
 
