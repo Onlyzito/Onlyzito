@@ -1,7 +1,12 @@
-![Only's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onlyzito&show_icons=true&theme=dracula)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=fffeff&size=35&center=true&vCenter=true&width=1000&lines=JUST+A+MEDIUMCRE...)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br/>
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Onlyzito&show_icons=true&count_private=true&hide_border=true&title_color=fffeff&text_color=fffeff&bg_color=0d1117" alt= "Onlyzito Stats" /> 
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyzito&layout=compact&hide_border=true&title_color=fffeff&text_color=00bfb&bg_color=0d1117" /> 
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 </div>
