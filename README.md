@@ -1,5 +1,3 @@
-### 👋 Olá, eu sou o Only!
-
 ![Only's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onlyzito&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
