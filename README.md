@@ -1,4 +1,4 @@
-[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=fffeff&size=35&center=true&vCenter=true&width=1000&lines=JUST+A+MEDIUMCRE...)](https://git.io/typing-svg)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=fffeff&size=35&center=true&vCenter=true&width=1000&lines=Student.)](https://git.io/typing-svg)
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Onlyzito&show_icons=true&count_private=true&hide_border=true&title_color=fffeff&text_color=fffeff&bg_color=0d1117" alt= "Onlyzito Stats" /> 
